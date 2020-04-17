@@ -1,2 +1,4 @@
-Roboto.cpp libraries/DisplayCore/Roboto
-Roboto.h libraries/DisplayCore/Roboto
+library.json libraries/DisplayCore/Roboto
+library.properties libraries/DisplayCore/Roboto
+README.md libraries/DisplayCore/Roboto
+src libraries/DisplayCore/Roboto
