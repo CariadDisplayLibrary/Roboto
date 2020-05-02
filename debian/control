@@ -1,15 +1,16 @@
-Source: libdisplaycore-font-roboto
+Source: libcariad-font-roboto
 Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-font-roboto
+Package: libcariad-font-roboto
+Replaces: libdisplaycore-font-roboto
 Section: main
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Fonts
-Depends: libdisplaycore-core
+Depends: libcariad-core
 Provides: Roboto.h
 Description: Roboto
